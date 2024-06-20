@@ -2,6 +2,8 @@
 ### Hi there👋, I'm Rohaya
 <h3>💻 Programmer | 🌐 Web Developer | 🌱 Lifelong Learner | 💡 Tech Enthusiast</h3>
 
+![](https://komarev.com/ghpvc/?username=rohayamnx&color=7c4dff)
+
 <p>🔍 Exploring: Modern web frameworks like React, Next.js, Node.js, Golang and mobile app development with Flutter and React Native</p>
 <p>💼 Experienced in: Building ERP systems for the retail market and HR + Time Attendance + Payroll systems</p>
 <p>🌱 I’m currently learning cloud deployment strategies and technologies, Golang, React</p>
