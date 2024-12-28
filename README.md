@@ -7,7 +7,7 @@
 <p>🔍 Exploring: Modern web frameworks like React, Next.js, Node.js, Golang and mobile app development with Flutter and React Native</p>
 <p>💼 Experienced in: Building ERP systems for the retail market and HR + Time Attendance + Payroll systems</p>
 <p>🌱 I’m currently learning cloud deployment strategies and technologies, Golang, React</p>
-<p>🛠️ Skills: [PHP , JavaScript , Laravel , Bootstrap 5 , HTML 5 , CSS 3 , JQuery]</p>
+<p>🛠️ Skills: [PHP , Laravel, JavaScript , ReactJ, Bootstrap 5 , HTML 5 , CSS 3 , JQuery]</p>
 <p>Microservices: Docker, Kubernetes</p>
 <p>Tools: Git, MySQL, Postman, Photoshop</p>
 
